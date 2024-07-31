@@ -103,7 +103,8 @@ ros2 run ros1_bridge dynamic_bridge
 
 ![telegram-cloud-photo-size-4-5850302746794771195-y](https://github.com/user-attachments/assets/1dda429c-7b1a-4a64-81ab-222ac7cbdc63)
 
-![telegram-cloud-photo-size-4-5850302746794771195-y](https://github.com/user-attachments/assets/e8a4cecc-65d3-4b56-a416-8f49f26327f7)
+**![telegram-cloud-photo-size-4-5850302746794771194-x](https://github.com/user-attachments/assets/7d1910c0-4e2c-48da-8e15-2d33473a6b48)
+**
 
 
 now you can run turtlesim from ros1 by using the bridge .
